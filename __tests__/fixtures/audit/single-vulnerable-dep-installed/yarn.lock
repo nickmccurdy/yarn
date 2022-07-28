@@ -20,9 +20,9 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
-minimatch@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.0.tgz#5236157a51e4f004c177fb3c527ff7dd78f0ef83"
-  integrity sha1-UjYVelHk8ATBd/s8Un/33Xjw74M=
+minimatch@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.2.tgz#0f398a7300ea441e9c348c83d98ab8c9dbf9c40a"
+  integrity sha512-itcYJNfVYt/6nrpMDiFA6FY9msZ9G7jEfB896PrgYCakHrW0mOPmzBVvfI2b9yoy6kUKNde1Rvw4ah0f1E25tA==
   dependencies:
     brace-expansion "^1.0.0"
